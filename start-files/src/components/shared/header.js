@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-dark navbar-expand-lg">
       <div className="container">
-        <Link className="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/rentals">
           BookWithMe
         </Link>
         <form className="form-inline my-2 my-lg-0">
